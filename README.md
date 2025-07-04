@@ -6,6 +6,8 @@
 An interactive and visually rich Power BI dashboard designed to monitor real-time weather conditions, air quality index (AQI), and short-term forecasts across global cities—tailored for learners, analysts, and enthusiasts alike.
 
 2. Description / Purpose
+
+
 The Weather Analytics Dashboard is a dynamic Power BI report that integrates real-time weather and AQI data to provide a comprehensive view of atmospheric conditions across multiple cities. Built for educational and analytical purposes, this dashboard empowers users to track temperature, humidity, pressure, wind speed, and forecast trends from a single interface.
 
 3. Tech Stack
