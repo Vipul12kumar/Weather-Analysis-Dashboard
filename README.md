@@ -2,6 +2,7 @@
 
 1. project Title
 ☁️ Weather Analytics: Real-Time Weather, AQI & Forecast Dashboard
+
 An interactive and visually rich Power BI dashboard designed to monitor real-time weather conditions, air quality index (AQI), and short-term forecasts across global cities—tailored for learners, analysts, and enthusiasts alike.
 
 2. Description / Purpose
@@ -35,6 +36,7 @@ Air Quality Index (PM2.5, PM10, CO, etc.)
 Location metadata (country, region, coordinates)
 
 5. Features / Highlights
+
 • Business Problem
 Weather variability affects everything from travel planning to outdoor events, yet most dashboards focus only on a single metric or city.
 Users often need to track multiple atmospheric parameters across cities in real-time—with insights into pollution levels and forecast trends—without switching platforms.
@@ -85,6 +87,8 @@ Dynamically changes color and iconography based on weather severity or AQI categ
 📊 Freelance Portfolio Builder: Showcases end-to-end BI pipeline from API data fetching to polished dashboard UI.
 
 🔍 Data Analysis Practice: Helps users understand patterns between humidity, temperature, and AQI levels.
+
+https://github.com/Vipul12kumar/Weather-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
 
 
 
